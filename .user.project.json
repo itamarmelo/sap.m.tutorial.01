@@ -12,10 +12,17 @@
       "hashParameter": "",
       "backendSystem": [],
       "_metadata": {
+<<<<<<< HEAD
         "id": 1335192,
         "runnerId": "webapprunner",
         "displayName": "Run index.html",
         "lastRunTimeStamp": 1585082488617
+=======
+        "runnerId": "webapprunner",
+        "id": 1335192,
+        "displayName": "Run index.html",
+        "lastRunTimeStamp": 1585070471409
+>>>>>>> branch 'master' of https://github.com/itamarmelo/sap.m.tutorial.01.git
       }
     }
   ]
